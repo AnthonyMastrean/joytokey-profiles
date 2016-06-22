@@ -1,2 +1,3 @@
-# joytokey-profiles
-Joy to Key profiles
+# Joy to Key Profiles
+
+https://chocolatey.org/packages/joytokey
